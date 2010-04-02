@@ -1,7 +1,9 @@
 Tower Defense
 =============
 
-Final project for Comp Sys Orgs
+    Final project for Comp Sys Orgs
+
+-----
 
 [![](http://i41.tinypic.com/mblc0h.png)](http://i41.tinypic.com/mblc0h.png)
 
